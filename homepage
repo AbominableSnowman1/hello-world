@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <link href="https://fonts.googleapis.com/css?family=Megrim|Montserrat" rel="stylesheet">
+    <title>homepage</title>
+<style>
+ body     {
+             background-color:rgb(104,174,238);
+            
+        } 
+        header   {
+            text-align:center;
+            background-color:rgb(26, 10, 255,0.25);
+            padding:1px;
+            color:white;
+            
+            border-radius:10px;
+            margin-right:-20px;
+            margin-left:-20px;
+            margin-top:10px;
+           
+    }
+        
+        footer   {
+            background-color:rgb(0,0,0,0.2);
+            padding:12px;
+            margin-right:-20px;
+            margin-left:-20px;
+            text-align:center;
+            color:white;
+            font-size:17px;
+    }
+        .message {
+            background-color:rgba(255,255,255,0.5);
+            border-radius:20px;
+            padding:20px;
+            margin:20px;
+            /*text-align:center;
+            */ font-family:comic-sans;
+  	     display: table; 
+   
+        } 
+        .projects{
+             font-family: megrim; 
+             text-align:center;
+             background-color:rgba(255, 255, 255,0.2);
+             padding:10px;
+             margin-right:220px;
+             margin-left:220px;
+             border-radius:20px;
+	     display:table;
+    }   
+        .idk     {
+            font-family:megrim;
+            font-size:20px;
+        }
+        #title   {
+            font-size:30px;
+            font-family: megrim;
+    }
+        #new     {
+            font-size:15px;
+            font-family: Montserrat;
+    }
+	ul {
+		text-align:left;
+	}
+
+ </style>
+  </head>
+  <body>
+<header> 
+<h1 id="title">HOMEPAGE</h1>
+
+</header>
+<center>
+<h2 class="projects">About Us</h2>
+  </center>
+<p id="new" class="message"> we are a group of friends who own a <a href="https://discord.gg/tZGqsr"> discord server </a>  </p>
+<p class="message"> we play roblox and have fun right guys nope ok </p> 
+<p class = "message">o-o </p>
+<p class = "message">.3. </p>
+<p class = "message">uwu </p>
+
+<footer> the STIDAB corporation... visit our seperate webpages XD <br>
+shooting-star, tacoooooo, darragh, <a href="file:///C:/Users/danya/Documents/befishy.html" target="blank"> befishy </a>, itselfmona, vampirecatt </footer>
+  </body>
+</html>
